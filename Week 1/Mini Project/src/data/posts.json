@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Getting Started with React",
+    "excerpt": "Learn the fundamentals of building focused interfaces with components and props.",
+    "category": "React",
+    "author": "Krishnendu Das",
+    "date": "2026-09-01",
+    "readTime": "5 min"
+  },
+  {
+    "id": 2,
+    "title": "A Practical Guide to JavaScript Array Methods",
+    "excerpt": "Use map, filter, and reduce to transform data clearly and confidently.",
+    "category": "JavaScript",
+    "author": "Krishnendu Das",
+    "date": "2026-08-28",
+    "readTime": "7 min"
+  },
+  {
+    "id": 3,
+    "title": "Designing Better Loading States",
+    "excerpt": "Small details in a loading experience can make a web app feel calm and dependable.",
+    "category": "Web Development",
+    "author": "Maya Sen",
+    "date": "2026-08-24",
+    "readTime": "4 min"
+  },
+  {
+    "id": 4,
+    "title": "Clean Code Starts with Clear Names",
+    "excerpt": "Readable names reduce mental overhead and make everyday programming decisions easier.",
+    "category": "Programming",
+    "author": "Arjun Mehta",
+    "date": "2026-08-20",
+    "readTime": "6 min"
+  },
+  {
+    "id": 5,
+    "title": "Building Your First Developer Portfolio",
+    "excerpt": "A thoughtful portfolio can show how you think, not just which technologies you know.",
+    "category": "Career",
+    "author": "Nadia Roy",
+    "date": "2026-08-16",
+    "readTime": "8 min"
+  },
+  {
+    "id": 6,
+    "title": "Managing State in Small React Apps",
+    "excerpt": "See how local state keeps simple interactions predictable without extra libraries.",
+    "category": "React",
+    "author": "Krishnendu Das",
+    "date": "2026-08-12",
+    "readTime": "6 min"
+  },
+  {
+    "id": 7,
+    "title": "Understanding the Browser Rendering Path",
+    "excerpt": "A tour of the steps browsers take to turn HTML, CSS, and JavaScript into pixels.",
+    "category": "Web Development",
+    "author": "Maya Sen",
+    "date": "2026-08-08",
+    "readTime": "9 min"
+  },
+  {
+    "id": 8,
+    "title": "How to Learn Programming Consistently",
+    "excerpt": "Create a sustainable practice loop that turns small sessions into durable skills.",
+    "category": "Career",
+    "author": "Nadia Roy",
+    "date": "2026-08-03",
+    "readTime": "5 min"
+  },
+  {
+    "id": 9,
+    "title": "Modern JavaScript Modules Explained",
+    "excerpt": "Understand imports and exports so your code can stay organized as it grows.",
+    "category": "JavaScript",
+    "author": "Arjun Mehta",
+    "date": "2026-07-29",
+    "readTime": "7 min"
+  },
+  {
+    "id": 10,
+    "title": "The Habit of Reading Documentation",
+    "excerpt": "Good documentation habits help you solve unfamiliar problems with less guesswork.",
+    "category": "Programming",
+    "author": "Krishnendu Das",
+    "date": "2026-07-23",
+    "readTime": "4 min"
+  }
+]
